@@ -11,7 +11,7 @@ Learn the patterns properly and revisit problems until I can explain the solutio
 Shell, Git, debugging, profiling and development workflow.
 
 **Build**
-Ship a real-time multiplayer game. Use it to get better at architecture, networking, databases, concurrency, testing and failure handling.
+Ship a real-time multiplayer game. Use it to get better at architecture, networking, databases, concurrency, testing, observability and failure handling.
 
 ## Systems
 
@@ -22,6 +22,6 @@ Ship a real-time multiplayer game. Use it to get better at architecture, network
 
 ## Practice
 
-One timed mock interview every week.
+One timed mock interview every week. Mix coding, project deep dives and system design as interviews get closer.
 
 Keep building. Keep getting better.
